@@ -1,0 +1,8 @@
+{
+  "name": "xcoin-promptpay-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "promptpay-qr": "^1.0.7",
+    "qrcode": "^1.5.1"
+  }
+}
